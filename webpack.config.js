@@ -41,12 +41,6 @@ module.exports = {
                     'vue-style-loader',
                     'css-loader',
                     'sass-loader',
-                    {
-                        loader: 'sass-resources-loader',
-                        options: {
-                            resources: ['./src/style/style.scss']
-                        },
-                    },
                 ]
             },
             {
