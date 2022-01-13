@@ -96,7 +96,7 @@ export default {
       text: '',
       description: '',
       number: '',
-      timerCount: 100,
+      timerCount: 10,
       isValid: false,
       mask: "+ 7(###) ## ## ###",
     }
